@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pay-java-ali/pay-java-ali.iml" filepath="$PROJECT_DIR$/pay-java-ali/pay-java-ali.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-java-common/pay-java-common.iml" filepath="$PROJECT_DIR$/pay-java-common/pay-java-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-java-demo/pay-java-demo.iml" filepath="$PROJECT_DIR$/pay-java-demo/pay-java-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-java-fuiou/pay-java-fuiou.iml" filepath="$PROJECT_DIR$/pay-java-fuiou/pay-java-fuiou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-java-parent.iml" filepath="$PROJECT_DIR$/pay-java-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-java-wx/pay-java-wx.iml" filepath="$PROJECT_DIR$/pay-java-wx/pay-java-wx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay-java-wx-youdian/pay-java-wx-youdian.iml" filepath="$PROJECT_DIR$/pay-java-wx-youdian/pay-java-wx-youdian.iml" />
+    </modules>
+  </component>
+</project>
